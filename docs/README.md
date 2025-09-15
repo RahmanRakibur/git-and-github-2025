@@ -2,7 +2,7 @@
 
 mangggaa  ekta japaneese ki jno ami nijeo vule gesi tmi online e check koro eita mainly ami banaisi new ekta branch create korar jonno.
 ## question>>  ami manga nam e ekta new branch banaisi ami ki vabe ei nam take correct kore ei new branch ei amr test kaj gulo thik vabe make korte parbo
-ChatGPT said:
+
 
 বুঝতে পারছি 👍
 তুমি manga নামে একটা নতুন branch বানিয়েছো, কিন্তু এখন চাইছো —
@@ -60,5 +60,3 @@ git branch -m পুরনো-নাম নতুন-নাম → branch rename
 
 test কাজ করার জন্য normal workflow: git add → git commit → git push
 
-👉 চাইলে আমি তোমাকে একটা ছোট্ট workflow cheat sheet বানিয়ে দিতে পারি, যেখানে দেখাবে: নতুন branch তৈরি → কাজ করা → push করা → merge করার পুরো industry style flow।
-তুমি কি সেটা চাও?

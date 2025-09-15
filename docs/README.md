@@ -1,7 +1,7 @@
 # helo world  --
 
 mangggaa  ekta japaneese ki jno ami nijeo vule gesi tmi online e check koro eita mainly ami banaisi new ekta branch create korar jonno.
-question>>  ami manga nam e ekta new branch banaisi ami ki vabe ei nam take correct kore ei new branch ei amr test kaj gulo thik vabe make korte parbo
+## question>>  ami manga nam e ekta new branch banaisi ami ki vabe ei nam take correct kore ei new branch ei amr test kaj gulo thik vabe make korte parbo
 ChatGPT said:
 
 বুঝতে পারছি 👍
